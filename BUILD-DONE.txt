@@ -1,0 +1,4 @@
+Test count: 22 passed
+Build commit: f288b457427777f6243ef95af66d48c2e08a706a
+
+Built a CPU-only, standard-library Python package and CLI for deterministic JSONL event capture, SDK instrumentation, immutable run manifests with fork snapshots, byte-identical fixture replay, stateful branching and prompt, seed, and policy counterfactuals, event diffs, and an interactive static timeline viewer. Added three scripted demo fixtures, a README with the event schema and honesty boundary, and a pytest suite with 22 passing checks. The bundled sample agent uses deterministic fixtures and makes no live model calls.
